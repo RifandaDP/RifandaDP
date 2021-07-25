@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RifandaDP
-- 👀 I’m interested in Data Scientis
+- 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Python for Data Scientist
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me email rifandadwiputra@gmail.com
